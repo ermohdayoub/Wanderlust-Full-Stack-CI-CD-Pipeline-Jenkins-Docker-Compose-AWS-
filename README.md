@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-green" />
 </p>
 
+<img width="1919" height="1008" alt="Screenshot 2025-11-20 194118" src="https://github.com/user-attachments/assets/25164d6f-ad41-49e5-b586-138bd9ace337" />
+
+
 ## 📌 Overview
 
 A complete **production-ready DevOps pipeline** for a travel booking application built with **Node.js, React, MongoDB** and automated through **Jenkins CI/CD**. The entire stack is containerized using **Docker & Docker Compose** and deployed on **AWS EC2**.
@@ -73,20 +76,6 @@ This project demonstrates real DevOps concepts: CI/CD, containerization, multi-c
 
 ---
 
-## 📂 Directory Structure
-
-```
-Wanderlust-Mega-Project/
-├── backend/            # Node.js API
-├── frontend/           # React UI
-├── docker-compose.yml
-├── Jenkinsfile         # CI/CD pipeline
-├── .env.example
-└── README.md
-```
-
----
-
 ## 🐳 Docker Compose Setup
 
 ### Start Application
@@ -119,12 +108,9 @@ This launches:
 
 ### Example Jenkinsfile
 
-```
+
 <img width="1919" height="1011" alt="Screenshot 2025-11-20 194400" src="https://github.com/user-attachments/assets/11347731-30f8-4da4-9bdb-700bee895df6" />
 <img width="1919" height="1015" alt="Screenshot 2025-11-20 194416" src="https://github.com/user-attachments/assets/0a384cbb-940b-4b77-babf-e3aab1d837ab" />
-
-```
-
 
 
 ## 🛠 Backend (Node.js) – Metrics Ready
