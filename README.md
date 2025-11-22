@@ -139,6 +139,10 @@ screenshots of the project
 * Scalable & production-ready architecture
 
 ---
+👨‍💻 Author
+Mohd Ayoub
+AWS & DevOps Engineer
+LinkedIn: (https://www.linkedin.com/in/ermohdayoub)
 
 ## ⭐ If you like this project
 
