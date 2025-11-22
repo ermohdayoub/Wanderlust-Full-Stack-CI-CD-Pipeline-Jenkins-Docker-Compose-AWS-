@@ -120,6 +120,7 @@ This launches:
 * Exposed metrics endpoint possible using `prom-client`
 
 screenshots of the project
+<img width="1919" height="1014" alt="Screenshot 2025-11-20 194057" src="https://github.com/user-attachments/assets/119a1044-800a-4034-b527-cea44f3a73a8" />
 <img width="1919" height="883" alt="Screenshot 2025-11-20 194453" src="https://github.com/user-attachments/assets/fc6f13b6-5cc0-45b1-a993-6237af3c86f9" />
 <img width="1912" height="896" alt="Screenshot 2025-11-20 194718" src="https://github.com/user-attachments/assets/f9645639-8881-4b0a-84ed-d8984a58a1ba" />
 <img width="1919" height="838" alt="Screenshot 2025-11-20 194247" src="https://github.com/user-attachments/assets/def38554-d446-4846-bb1c-20dafff5c4c2" />
@@ -127,7 +128,7 @@ screenshots of the project
 <img width="1919" height="1016" alt="Screenshot 2025-11-20 194212" src="https://github.com/user-attachments/assets/d0e1fc1b-cff9-47ee-9c66-d11b866bd43a" />
 <img width="1919" height="1016" alt="Screenshot 2025-11-20 194142" src="https://github.com/user-attachments/assets/24ae8ced-8ab7-495f-b25a-6bba0ef7ad0d" />
 <img width="437" height="202" alt="Screenshot 2025-11-20 194104" src="https://github.com/user-attachments/assets/1e8c4d26-5f3e-440c-b8f0-011f6e1cf9e8" />
-<img width="1919" height="838" alt="Screenshot 2025-11-20 194247" src="https://github.com/user-attachments/assets/0584bd44-a3bb-4900-8a53-d906a8b160b9" />
+
 ## ⭐ Results
 
 
